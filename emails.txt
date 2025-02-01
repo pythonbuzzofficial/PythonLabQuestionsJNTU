@@ -1,0 +1,15 @@
+john@example.com
+jane.doe@gmail.com
+admin@company.org
+user123@yahoo.com
+contact@website.net
+alice@example.com
+  bob.smith@gmail.com
+charlie@company.org
+david123@yahoo.com
+   eva.adams@website.net
+frank_miller@outlook.com
+grace.hopper@techmail.com
+harry.potter@hogwarts.edu
+isabella@domain.co
+jackson@business.io
